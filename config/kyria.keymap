@@ -158,5 +158,13 @@
                      &none  &none         &none         &bt BT_CLR  &none  &none  &bt BT_CLR  &none         &none         &none
             >;
         };
+
+	EXTRA1 {
+	    status = "reserved";
+	};
+
+	EXTRA2 {
+	    status = "reserved";
+	};
     };
 };
